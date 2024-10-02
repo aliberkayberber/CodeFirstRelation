@@ -1,4 +1,4 @@
-## Entity framework kullanarak code first yaklaþýmýyla kodladýk.
+## Entity framework kullanarak code first yaklasimiyla kodladik.
 
 	** Entity framework
 	** Fluent API
